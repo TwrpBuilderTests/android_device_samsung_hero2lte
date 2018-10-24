@@ -38,8 +38,8 @@ TARGET_2ND_CPU_VARIANT := cortex-a53
 
 # Kernel
 TARGET_KERNEL_ARCH := arm64
-TARGET_KERNEL_CONFIG := exynos8890-hero2lte_defconfig
 TARGET_KERNEL_HEADER_ARCH := arm64
+TARGET_KERNEL_CONFIG := exynos8890-hero2lte_defconfig
 TARGET_KERNEL_SOURCE := kernel/samsung/universal8890
 
 # Image
